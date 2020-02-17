@@ -1,0 +1,13 @@
+/* theme name : wepb
+author: root
+author url : http://localhost/cmswepb
+version: 1.0
+*/
+
+body{margin: 0; padding: 0;}
+header{background-color: greenyellow; padding: 12px; color: white;}
+
+
+footer{background-color:greenyellow; padding: 5px;color: white;}
+header h1{margin: 0; padding: 0; padding-bottom: 10;} 
+.container{width: 1020px; margin: 0 auto; overflow: auto;}
